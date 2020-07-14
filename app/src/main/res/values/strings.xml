@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReederApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userCollection">User</string>
+    <string name="productReview">Ürün İnceleme</string>
+    <string name="reportFirstPreview">Ön İnceleme Raporu</string>
+    <string name="firstPreviews">First Reviews</string>
+    <string name="action_search">Örn. 100200300</string>
+    <string name="lastPreviews">Last Reviews</string>
+    <string name="lastPreview">Son Rapor</string>
+    <string name="firstPreview">Ön Rapor</string>
+    <string name="issues">Sorunlar</string>
+    <string name="reportLastPreview">Son İnceleme Raporu</string>
+    <string name="reportFirstPreviewControl">Ön İnceleme Raporu Kontrol</string>
+    <string name="reportLastPreviewControl">Son İnceleme Raporu Kontrol</string>
+    <string name="myPreviewsText">Yapmış Olduğum İncelemeler</string>
+    <string name="lastPreviewsText">Ön İncelemesi Mevcut Cihazlar</string>
+</resources>

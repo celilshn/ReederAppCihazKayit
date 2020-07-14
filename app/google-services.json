@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205806375646",
+    "firebase_url": "https://reederapp-97e7a.firebaseio.com",
+    "project_id": "reederapp-97e7a",
+    "storage_bucket": "reederapp-97e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205806375646:android:cde484110111f98f28284f",
+        "android_client_info": {
+          "package_name": "com.cengcelil.reederapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205806375646-ukip21fmc77gcf023hmaka8tna3o7fo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cengcelil.reederapp",
+            "certificate_hash": "9a194bcdfda757bfb6fb5d54e6d96149b05dc389"
+          }
+        },
+        {
+          "client_id": "205806375646-d1o2e8eugdvfq5r1aa84fckv2c4jt9c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXSL7XUEGf3idwjbOMv6KAU6BTIXOCe38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205806375646-d1o2e8eugdvfq5r1aa84fckv2c4jt9c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
